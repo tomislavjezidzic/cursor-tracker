@@ -34,7 +34,7 @@ $(".container").cursor('click', function(values){
     console.log(values.angle);
 });
 ```
-On click (or any other event) will be returned angle of the cursor.
+Click (or any other event) will be returned angle of the cursor.
 
 ### Attributes
 
@@ -59,6 +59,8 @@ On click (or any other event) will be returned angle of the cursor.
 <b>corner</b><br/>
 -corner of the element<br/>
 -returned value is in format [0, 0, 0, 0] and it represents [left top, right top, left bottom, right bottom]. A corner where the cursor is, will return the value 1 while other will be 0.
+
+# <a href="https://codepen.io/tjezidzic/pen/brbMEv">DEMO</a>
 
 <br/>
  Author: Tomislav Jezidžić<br/>
