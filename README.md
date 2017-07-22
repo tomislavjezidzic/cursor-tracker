@@ -39,7 +39,7 @@ On click (or any other event) will be returned angle of the cursor.
 <b>yAxis</b><br/>
 -(percentages) cursor position in relation to the left top corner of the element
 
-<b>yAxisCentered</b><br/>
+<b>xAxisCentered</b><br/>
 -(percentages) cursor position in relation to the center of the element
 
 <b>yAxisCentered</b><br/>
