@@ -1,7 +1,8 @@
 # Cursor tracker
 
-This plugin tracks cursor position values like position on x or y axis od angle.<br/>
-Returned values only applies to the called element.
+This plugin tracks cursor position values. Like position on x or y axis and angle.<br/>
+Returned values only applies to the called element.<br/>
+The plugin is dependent on jQuery.
 
 ## Guide
 
