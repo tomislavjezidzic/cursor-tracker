@@ -26,25 +26,25 @@ On click (or any other event) will be returned angle of the cursor.
 
 ### Attributes
 
-angle<br/>
+<b>angle</b><br/>
 -(deggress) in relation to the center of the element
 
-angleRad<br/>
+<b>angleRad</b><br/>
 -(radians) in relation to the center of the element
 
-xAxis<br/>
+<b>xAxis</b><br/>
 -(percentages) cursor position in relation to the left top corner of the element
 
-yAxis<br/>
+<b>yAxis</b><br/>
 -(percentages) cursor position in relation to the left top corner of the element
 
-yAxisCentered<br/>
+<b>yAxisCentered</b><br/>
 -(percentages) cursor position in relation to the center of the element
 
-yAxisCentered<br/>
+<b>yAxisCentered</b><br/>
 -(percentages) cursor position in relation to the center of the element
 
-corner<br/>
+<b>corner</b><br/>
 -corner of the element<br/>
 -returned value is in format [0, 0, 0, 0] and it represents [left top, right top, left bottom, right bottom]. A corner where the cursor is, will return the value 1 while other will be 0.
 
