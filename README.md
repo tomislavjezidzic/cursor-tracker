@@ -39,7 +39,7 @@ On click (or any other event) will be returned angle of the cursor.
 ### Attributes
 
 <b>angle</b><br/>
--(deggress) in relation to the center of the element
+-(degres) in relation to the center of the element
 
 <b>angleRad</b><br/>
 -(radians) in relation to the center of the element
