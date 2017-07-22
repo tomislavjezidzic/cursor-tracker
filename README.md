@@ -34,7 +34,7 @@ $(".container").cursor('click', function(values){
     console.log(values.angle);
 });
 ```
-Click (or any other event) will be returned angle of the cursor.
+Click (or any other event) will return cursor position value in degres.
 
 ### Attributes
 
@@ -64,5 +64,5 @@ Click (or any other event) will be returned angle of the cursor.
 
 <br/>
  Author: Tomislav Jezidžić<br/>
- Has contributed: Mario Novoselec<br/>
+ Contributor: Mario Novoselec<br/>
  Year: 2017<br/>
