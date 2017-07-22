@@ -8,7 +8,7 @@ The plugin is dependent on jQuery.
 
 ### Example
 
-HTML
+<b>HTML</b>
 ```
 <body>
    <div class="container">
@@ -17,7 +17,18 @@ HTML
 </body>
 ```
 
-JS
+or
+
+```
+<body>
+   <div class="container" data-dec="1">
+           
+   </div>
+</body>
+```
+data-dec="1" means that returned value is with one decimal point (format x.x). Default value is 2 (format x.xx).<br/>
+
+<b>JS</b>
 ```
 $(".container").cursor('click', function(values){
     console.log(values.angle);
