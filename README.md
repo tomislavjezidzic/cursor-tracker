@@ -66,3 +66,4 @@ Click (or any other event) will return cursor position value in degres.
  Author: Tomislav Jezidžić<br/>
  Contributor: Mario Novoselec<br/>
  Year: 2017<br/>
+ Size: ~4Kb<br/>
