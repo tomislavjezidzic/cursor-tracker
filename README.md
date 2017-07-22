@@ -1,8 +1,8 @@
 # Cursor tracker
 
- Author: Tomislav Jezidžić
- Has contributed: Mario Novoselec
- Year: 2017
+ Author: Tomislav Jezidžić<br/>
+ Has contributed: Mario Novoselec<br/>
+ Year: 2017<br/>
  
 ## Guide
 
