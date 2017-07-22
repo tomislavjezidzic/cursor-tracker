@@ -26,7 +26,7 @@ or
    </div>
 </body>
 ```
-data-dec="1" means that returned value is with one decimal point (format x.x). Default value is 2 (format x.xx).<br/>
+data-dec="1" means that returned value will be with one decimal point (format x.x). Default value is 2 (format x.xx).<br/>
 
 <b>JS</b>
 ```
