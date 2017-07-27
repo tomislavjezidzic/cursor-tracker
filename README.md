@@ -61,6 +61,7 @@ Click (or any other event) will return cursor position value in degres.
 -returned value is in format [0, 0, 0, 0] and it represents [left top, right top, left bottom, right bottom]. A corner where the cursor is, will return the value 1 while other will be 0.
 
 # <a href="https://codepen.io/tjezidzic/pen/brbMEv">DEMO</a>
+# <a href="https://codepen.io/tjezidzic/pen/rzNdEq">DEMO 2</a>
 
 <br/>
  Author: Tomislav Jezidžić<br/>
