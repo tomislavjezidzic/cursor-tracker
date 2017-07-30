@@ -10,9 +10,9 @@
 
 (function ( $ ) {
     $.fn.cursor = function(options, values){
-        $(this).on(options, function(){
-            var e = event,
-                selectedElement = $(this),
+        $(this).on(options, function(e){
+            e = e || window.event;
+            var selectedElement = $(this),
                 decimalNum = selectedElement.data('dec'),
                 decPointValue;
 
