@@ -4,6 +4,8 @@ This plugin tracks cursor position values. Like position on x or y axis and angl
 Returned values only applies to the called element.<br/>
 This plugin is dependent on jQuery.
 
+###<a href="https://www.npmjs.com/package/cursor_tracker">npm module</a>
+
 ## Guide
 
 ### Example
