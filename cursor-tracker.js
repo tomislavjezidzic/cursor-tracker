@@ -1,9 +1,9 @@
 /*!
- * Cursor tracker v 1.1
+ * Cursor tracker v 1.2
  * https://github.com/tomislavjezidzic/cursor-tracker
  *
  * Author: Tomislav Jezidžić
- * Has contributed: Mario Novoselec
+ * Contributor: Mario Novoselec
  * 
  * Year: 2017
  */
